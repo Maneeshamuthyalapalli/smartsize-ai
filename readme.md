@@ -34,4 +34,4 @@ You can try the application live at [SmartSize AI](https://smartsize-ai.vercel.a
 
 ## Contact
 
-For any inquiries, please reach out to: [manisha9177264555@gmail.com](mailto:manisha9177264555@gmail.com)
+For any inquiries, please reach out to: [22b01a12a7@svecw.edu.in](mailto:22b01a12a7@svecw.edu.in)
